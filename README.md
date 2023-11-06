@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm in overcoming one's own limits
+I am studying the PEN-200 course🔥
+I'm studying HTB, THM, etc..
+
+Obvious fact: There is no end to learning in cybersec⭐
 <!--
 **offsecnet/offsecnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
